@@ -5,6 +5,7 @@ internal class Program
 
     private static void Main(string[] args)
     {
+        // а
         String a = " .'`^\",:;Il!i><~+_-?][}{1)(|";
         string path = "C:\\Users\\ИСП-31\\Source\\Repos\\ConsoleVideoViewer\\Meet the Heavy.mp4";
 
